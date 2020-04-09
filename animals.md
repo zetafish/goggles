@@ -1,3 +1,4 @@
 # Animals
 
 - cat
+- dog
